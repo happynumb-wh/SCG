@@ -3,7 +3,7 @@
 *.simple
 __pycache__
 # picker folder
-axi2ui
+scg
 # wave
 *.fst
 *.fsdb
