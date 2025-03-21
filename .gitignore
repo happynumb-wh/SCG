@@ -1,0 +1,20 @@
+.vscode
+*.txt
+*.simple
+__pycache__
+# picker folder
+axi2ui
+# wave
+*.fst
+*.fsdb
+*.dat
+*.hier
+xsim.dir
+xvlog.pb
+reports
+verdiLog
+ucli.key
+novas_dump.*
+novas.*
+marker.rpt
+signal.rc
