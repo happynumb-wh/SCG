@@ -11,7 +11,7 @@ import tqdm
 
 
 if __name__ == "__main__":
-    dut = DUTSCG_V2()
+    dut = DUTscg_top()
     print("DUTSCG_V2 created")
 
 

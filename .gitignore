@@ -1,10 +1,10 @@
 .vscode
-*.txt
 *.simple
 __pycache__
 # picker folder
 scg
 # wave
+test/
 *.fst
 *.fsdb
 *.dat
@@ -18,3 +18,5 @@ novas_dump.*
 novas.*
 marker.rpt
 signal.rc
+logs
+output
